@@ -1,5 +1,8 @@
 # CI-CD-Pipeline-with-DevSecOps-AWS-ECS-deployment
 
+
+# Architecture-diagram
+
 ```mermaid
 graph LR
     subgraph Development["Development"]
@@ -32,4 +35,3 @@ graph LR
     style Code_Quality fill:#0f172a,stroke:#3b82f6,color:#fff
     style Artifact_Creation fill:#0f172a,stroke:#3b82f6,color:#fff
     style Deployment fill:#0f172a,stroke:#3b82f6,color:#fff
-    ```
