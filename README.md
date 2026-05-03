@@ -6,7 +6,6 @@
 ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-Container%20Orchestration-FF9900?logo=amazonaws&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Script-4EAA25?logo=gnubash&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # CI-CD-Pipeline-with-DevSecOps-AWS-ECS-deployment
 
