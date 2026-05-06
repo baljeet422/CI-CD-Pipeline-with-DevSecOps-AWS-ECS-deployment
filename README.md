@@ -22,6 +22,12 @@ The pipeline is triggered on every code push to GitHub and moves the application
 | **AWS EC2** | Hosts Jenkins and SonarQube servers     |
 | **AWS IAM** | Manages permissions and service roles   |
 | **AWS VPC** | Network isolation for all services      |
+
+# Problem it solves
+- Eliminates manual deployments with a fully automated pipeline
+- Catches vulnerabilities before production via SonarQube quality gates
+- Scales containers automatically using AWS ECS
+- Centralizes all artifacts (Docker images + builds) in one place
  
 # Architecture-diagram
 
