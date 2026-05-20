@@ -9,7 +9,7 @@
 # Secure CI/CD Automation System
 
 # Project Overview
-This project implements a **fully automated CI/CD pipeline** integrated with **DevSecOps practices** to build, test, analyze, containerize, and deploy a Java web application to **AWS ECS** (Elastic Container Service).
+This project implements a **fully automated CI/CD pipeline** integrated with **security practices** to build, test, analyze, containerize, and deploy a Java web application to **AWS ECS** (Elastic Container Service).
  
 The pipeline is triggered on every code push to GitHub and moves the application through multiple stages — from code quality checks and security analysis to Docker image creation and ECS deployment — with zero manual intervention.
 
