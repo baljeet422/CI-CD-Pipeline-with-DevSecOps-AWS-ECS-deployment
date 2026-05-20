@@ -5,9 +5,8 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?logo=sonarqube&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-Container%20Orchestration-FF9900?logo=amazonaws&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Script-4EAA25?logo=gnubash&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-# CI-CD-Pipeline-with-DevSecOps-AWS-ECS-deployment
+# Secure CI/CD Automation System
 
 # Project Overview
 This project implements a **fully automated CI/CD pipeline** integrated with **DevSecOps practices** to build, test, analyze, containerize, and deploy a Java web application to **AWS ECS** (Elastic Container Service).
